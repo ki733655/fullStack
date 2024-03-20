@@ -1,9 +1,9 @@
 import React from 'react'
-import Example1 from '../components/Example1';
-import Example2 from '../components/Example2';
-import Example3 from '../components/Example3';
-import Example4 from '../components/Example4';
-import Login from '../components/Login';
+import Example1 from '../components/events/Example1';
+import Example2 from '../components/events/Example2';
+import Example3 from '../components/events/Example3';
+import Example4 from '../components/events/Example4';
+import Login from '../components/login/Login';
 
 const page = () => {
 
