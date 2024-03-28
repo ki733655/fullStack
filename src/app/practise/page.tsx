@@ -8,6 +8,9 @@ import Comp5 from '../components/props drilling/Comp5';
 import Comp2 from '../components/props drilling/Comp2';
 import Comp1 from '../components/props drilling/Comp1';
 import Counter from '../components/UseEffecT/Counter';
+import Index from '../components/useCallbackExample/Indexx';
+import Timer from '../components/useREFassignment/Timer';
+import Form from '../components/useREFassignment/Form';
 
 const page = () => {
 
@@ -20,7 +23,10 @@ const page = () => {
        {/* <Login/> */}
        {/* <Comp5/> */}
        {/* <Comp1/> */}
-       <Counter/>
+       {/* <Counter/> */}
+       {/* <Index/> */}
+       {/* <Timer/> */}
+       <Form/>
     </div>
   )
 }
